@@ -1,0 +1,5 @@
+Model,RMSE,MAE
+ARIMA,4.8,3.6
+SARIMA,4.7,3.4
+Prophet,4.5,3.3
+LSTM,3.9,2.9
